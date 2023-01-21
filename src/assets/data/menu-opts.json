@@ -1,0 +1,13 @@
+[
+  
+      {
+        "icon": "alert-circle-outline",
+        "name": "Alert",
+        "redirectTo": "/alert"
+      },
+      {
+        "icon": "hammer-outline",
+        "name": "Input Forms",
+        "redirectTo": "/input"
+      }
+]
